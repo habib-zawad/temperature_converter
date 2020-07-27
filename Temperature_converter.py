@@ -36,4 +36,4 @@ elif type1 == "fahrenheit":
 elif type1 == "kelvin":
     kelvin()
 else:
-    print("Your Given Type is not in out database")
+    print("Your Given Type is not in our database")
